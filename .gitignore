@@ -27,8 +27,10 @@
 /src/intellij*/*.ipr
 /src/intellij*/*.iws
 **/.cache
-/.idea
+**/.idea
 /.settings
+/shelf/
+/workspace.xml
 
 # vscode
 /.vscode
@@ -57,3 +59,4 @@ project/**/metals.sbt
 
 .bsp
 .history
+
