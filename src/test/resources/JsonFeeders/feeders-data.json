@@ -1,0 +1,20 @@
+[
+  {
+    "roomType": "SINGLEROOM",
+    "hotelIdHS": 9786,
+    "roomNumber" : 2,
+    "requestType" : "PRIORITY"
+  },
+  {
+    "roomType": "DOUBLEROOM",
+    "hotelIdHS": 4567,
+    "roomNumber" : 1,
+    "requestType" : "ROOM"
+  },
+  {
+    "roomType": "LUX",
+    "hotelIdHS": 1234,
+    "roomNumber" : 3,
+    "requestType" : "GENERAL"
+  }
+]
