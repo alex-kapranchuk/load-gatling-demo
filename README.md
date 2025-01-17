@@ -41,4 +41,6 @@ Documentation and examples of the reports are available [here](https://docs.gatl
 
 #### Logger Configuration:
 
-Loggers are used to control logging behavior for specific parts of the application. In this configuration, the logger named **io.gatling.http.engine.response** is specified. Logback supports different log levels, including TRACE, DEBUG, INFO, WARN, ERROR, and OFF. The INFO level indicates that only informational messages and higher will be logged for this logger.
+Loggers are used to control logging behavior for specific parts of the application.
+Logback supports different log levels, including TRACE, DEBUG, INFO, WARN, ERROR, and OFF.
+The INFO level indicates that only informational messages and higher will be logged for this logger.
